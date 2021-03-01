@@ -7,6 +7,9 @@ Este projeto é dividido em;
 ## Tecnologias utilizadas;
  - NodeJS;
 
+## Instalando Dependências
+    $ yarn
+
 ## Executando testes com Jest (na aplicação inteira)
     $ yarn test
 
