@@ -9,5 +9,9 @@
     ]
   },
   "author": "ElderSam <eldersamuel98@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.2",
+    "@app-produtos/eslint-config": "*"
+  }
 }

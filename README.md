@@ -6,3 +6,6 @@ Este projeto é dividido em;
 
 ## Tecnologias utilizadas;
  - NodeJS;
+
+## Instalando dependências no Workspace root (Dependências Globais)
+    $ yarn add typescript -DW
