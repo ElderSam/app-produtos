@@ -9,8 +9,3 @@ Este projeto é dividido em;
 
 ## Executando testes com Jest (na aplicação inteira)
     $ yarn test
-
-
-## Instalando dependências no Workspace root (Dependências Globais)
-    $ yarn add typescript -DW
-    $ yarn add jest -DW
